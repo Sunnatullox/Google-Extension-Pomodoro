@@ -1,0 +1,16 @@
+body{
+    width: 400px;
+    height: 200px;
+}
+.content p , h2{
+    display: grid;
+    justify-content: center;
+}
+
+.content h2{
+    color: red;
+}
+.content .buttons{
+    display:flex;
+    justify-content:space-evenly;
+}
